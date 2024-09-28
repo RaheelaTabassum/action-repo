@@ -13,5 +13,3 @@ testing ALL
 
 
 not finding pusher
-
-read
