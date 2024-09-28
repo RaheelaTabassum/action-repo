@@ -8,6 +8,6 @@ g
 mer
  main
 
-testing ALLd
+testing ALL
 
 
